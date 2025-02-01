@@ -30,7 +30,7 @@ Reddit - the 'jump to next comment' button, awarding comments
 
 App I want to build
 
-I want to build an app where university students can buy and sell second handed items within their university. Every user have to be verified with their school email address. The app will have filter options for different types of items: clothes, shoes, textbooks, bags, free food giveaways, and giveaways from clubs/associations. Posters can set convient pickup time and location. There will be a chat function for customers to communicate. 
+I want to build an app where university students can buy and sell second handed items within their university. Every user have to be verified with their school email address. The app will have filter options for different types of items: clothes, shoes, textbooks, bags, free food giveaways, and giveaways from clubs/associations. Posters can set convient pickup time and location. There will be a chat function for users to communicate. 
 
 
 ## Notes
